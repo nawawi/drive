@@ -1,0 +1,45 @@
+[submodule "src/github.com/boltdb/bolt"]
+	path = src/github.com/boltdb/bolt
+	url = https://github.com/odeke-em/drive/
+[submodule "src/github.com/cheggaaa/pb"]
+	path = src/github.com/cheggaaa/pb
+	url = https://github.com/odeke-em/drive/
+[submodule "src/github.com/mattn/go-isatty"]
+	path = src/github.com/mattn/go-isatty
+	url = https://github.com/odeke-em/drive/
+[submodule "src/github.com/odeke-em/drive"]
+	path = src/github.com/odeke-em/drive
+	url = https://github.com/odeke-em/drive/
+[submodule "src/github.com/odeke-em/cache"]
+	path = src/github.com/odeke-em/cache
+	url = https://github.com/odeke-em/drive/
+[submodule "src/github.com/odeke-em/cli-spinner"]
+	path = src/github.com/odeke-em/cli-spinner
+	url = https://github.com/odeke-em/drive/
+[submodule "src/github.com/odeke-em/command"]
+	path = src/github.com/odeke-em/command
+	url = https://github.com/odeke-em/drive/
+[submodule "src/github.com/odeke-em/go-utils"]
+	path = src/github.com/odeke-em/go-utils
+	url = https://github.com/odeke-em/drive/
+[submodule "src/github.com/odeke-em/log"]
+	path = src/github.com/odeke-em/log
+	url = https://github.com/odeke-em/drive/
+[submodule "src/github.com/odeke-em/meddler"]
+	path = src/github.com/odeke-em/meddler
+	url = https://github.com/odeke-em/drive/
+[submodule "src/github.com/odeke-em/pretty-words"]
+	path = src/github.com/odeke-em/pretty-words
+	url = https://github.com/odeke-em/drive/
+[submodule "src/github.com/odeke-em/statos"]
+	path = src/github.com/odeke-em/statos
+	url = https://github.com/odeke-em/drive/
+[submodule "src/github.com/odeke-em/exponential-backoff"]
+	path = src/github.com/odeke-em/exponential-backoff
+	url = https://github.com/odeke-em/drive/
+[submodule "src/github.com/odeke-em/extractor"]
+	path = src/github.com/odeke-em/extractor
+	url = https://github.com/odeke-em/drive/
+[submodule "src/github.com/skratchdot/open-golang"]
+	path = src/github.com/skratchdot/open-golang
+	url = https://github.com/odeke-em/drive/
